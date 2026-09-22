@@ -13,7 +13,8 @@ data = dataIni;
 while( !EhIgual(&data, &dataFim) ){
 ImprimeData(&data);
 printf("\n");
-}
+
 AvancaParaDiaSeguinte(&data);
+}
 return 0;
 }
