@@ -1,0 +1,7 @@
+Filme cadastrado 1 - Final Fantasy
+
+Filme 1 - Final Fantasy nao disponivel no estoque. Volte mais tarde.
+Filme 2 nao cadastrado.
+
+~ESTOQUE~
+1 - Final Fantasy Fitas em estoque: 0

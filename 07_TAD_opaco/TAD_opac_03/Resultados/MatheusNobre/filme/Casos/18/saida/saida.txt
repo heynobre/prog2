@@ -1,0 +1,49 @@
+Filme cadastrado 1 - Hannibal
+
+~ESTOQUE~
+1 - Hannibal Fitas em estoque: 0
+
+Filme 2 nao cadastrado.
+Filme 3 nao cadastrado.
+Filme 1 - Hannibal nao disponivel no estoque. Volte mais tarde.
+
+~ESTOQUE~
+1 - Hannibal Fitas em estoque: 0
+
+Nao e possivel devolver o filme 1 - Hannibal.
+Nao e possivel devolver o filme 1 - Hannibal.
+
+~ESTOQUE~
+1 - Hannibal Fitas em estoque: 0
+
+Filme 2 nao cadastrado.
+
+Filme 15 nao cadastrado.
+
+Filme cadastrado 15 - Shrek
+
+Filme 15 - Shrek nao disponivel no estoque. Volte mais tarde.
+
+Filme 5 nao cadastrado.
+
+~ESTOQUE~
+1 - Hannibal Fitas em estoque: 0
+15 - Shrek Fitas em estoque: 0
+
+Filme 2 nao cadastrado.
+Filme 2 nao cadastrado.
+
+Filme 1 - Hannibal nao disponivel no estoque. Volte mais tarde.
+Filme 1 - Hannibal nao disponivel no estoque. Volte mais tarde.
+
+~ESTOQUE~
+1 - Hannibal Fitas em estoque: 0
+15 - Shrek Fitas em estoque: 0
+
+Filme 2 nao cadastrado.
+
+Filme 2 nao cadastrado.
+
+~ESTOQUE~
+1 - Hannibal Fitas em estoque: 0
+15 - Shrek Fitas em estoque: 0

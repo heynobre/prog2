@@ -1,0 +1,10 @@
+Filme cadastrado 1 - Hannibal
+
+Filme 2 nao cadastrado.
+Filme 1 - Hannibal nao disponivel no estoque. Volte mais tarde.
+
+Filme 2 nao cadastrado.
+Nao e possivel devolver o filme 1 - Hannibal.
+
+~ESTOQUE~
+1 - Hannibal Fitas em estoque: 0

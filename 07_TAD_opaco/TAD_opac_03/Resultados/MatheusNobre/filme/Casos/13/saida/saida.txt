@@ -1,0 +1,13 @@
+Filme cadastrado 2 - Tomb Raider
+
+Filme 1 nao cadastrado.
+
+~ESTOQUE~
+2 - Tomb Raider Fitas em estoque: 0
+
+Filme 2 - Tomb Raider nao disponivel no estoque. Volte mais tarde.
+
+Nao e possivel devolver o filme 2 - Tomb Raider.
+
+~ESTOQUE~
+2 - Tomb Raider Fitas em estoque: 0

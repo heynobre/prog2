@@ -1,0 +1,1 @@
+valgrind: Resultados/MatheusNobre/locadora/prog: No such file or directory
