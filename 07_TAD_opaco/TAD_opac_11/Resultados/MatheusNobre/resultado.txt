@@ -1,0 +1,21 @@
+Arquivos Esperados Corretos: 5 de 5
+Pastas Compiladas Corretamente: 4 de 4 
+Pastas Linkadas Corretamente: 1 de 4
+Teste main
+  - Resultados corretos: 0 de 1
+  - Valgrinds corretos: 0 de 1
+Nota de MatheusNobre para o teste main: 0
+Teste completo
+  - Resultados corretos: 0 de 1
+  - Valgrinds corretos: 0 de 1
+Nota de MatheusNobre para o teste completo: 0
+Teste loja
+  - Resultados corretos: 0 de 1
+  - Valgrinds corretos: 0 de 1
+Nota de MatheusNobre para o teste loja: 0
+Teste vendedor
+  - Resultados corretos: 0 de 1
+  - Valgrinds corretos: 1 de 1
+Nota de MatheusNobre para o teste vendedor: 0
+Nota de MatheusNobre: 0+(0)+(0)+(0)+(0)
+Nota de MatheusNobre: 0

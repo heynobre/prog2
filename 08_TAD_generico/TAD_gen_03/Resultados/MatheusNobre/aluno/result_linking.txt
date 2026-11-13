@@ -1,0 +1,8 @@
+/usr/bin/ld: Resultados/MatheusNobre/aluno/main.o: na função "main":
+main.c:(.text+0x53): referência não definida para "CriaAluno"
+/usr/bin/ld: main.c:(.text+0x63): referência não definida para "LeAluno"
+/usr/bin/ld: main.c:(.text+0x99): referência não definida para "DestroiAluno"
+/usr/bin/ld: Resultados/MatheusNobre/aluno/relatorio.o: na função "ImprimeRelatorio":
+relatorio.c:(.text+0x5b): referência não definida para "GetGeneroAluno"
+/usr/bin/ld: relatorio.c:(.text+0x86): referência não definida para "GetNotaAluno"
+collect2: error: ld returned 1 exit status

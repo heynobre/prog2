@@ -1,0 +1,3 @@
+/usr/bin/ld: Resultados/MatheusNobre/relatorio/main.o: na função "main":
+main.c:(.text+0x8e): referência não definida para "ImprimeRelatorio"
+collect2: error: ld returned 1 exit status

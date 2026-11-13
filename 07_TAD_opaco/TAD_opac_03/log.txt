@@ -54,12 +54,13 @@ COPIANDO OS ARQUIVOS PARA A PASTA DE RESULTADO DO ALUNO:
 COMPILANDO OS ARQUIVOS NA PASTA DE RESULTADO DO ALUNO:
  - Compilação dos arquivos do aluno na pasta main ok!
  - Arquivo de output gerado: Resultados/MatheusNobre/main/result_compilation.txt
- - Compilação dos arquivos do aluno na pasta completo ok!
- - Arquivo de output gerado: Resultados/MatheusNobre/completo/result_compilation.txt
+ - Erro de compilação! Verifique os arquivos da pasta completo.
  - Compilação dos arquivos do aluno na pasta locadora ok!
  - Arquivo de output gerado: Resultados/MatheusNobre/locadora/result_compilation.txt
  - Compilação dos arquivos do aluno na pasta filme ok!
  - Arquivo de output gerado: Resultados/MatheusNobre/filme/result_compilation.txt
+ - Arquivos Compilados: Erro!: 1 arquivos com erros de compilacao.
+
  - Arquivos Compilados: ok!
 
 LINKANDO OS ARQUIVOS COMPILADOS:
@@ -404,7 +405,7 @@ RESULTADOS FINAIS
 ----------------------------------------------------------------------------
 Aluno: MatheusNobre
  - Arquivos Esperados Corretos: 5 de 5
- - Pastas Compiladas Corretamente: 4 de 4 
+ - Pastas Compiladas Corretamente: 3 de 4 
  - Pastas Linkadas Corretamente: 1 de 4
  - Teste main
  - Resultados corretos: 0 de 18

@@ -1,0 +1,15 @@
+Banco do Brasil
+Lista de agencias:
+Lista de agencias:
+	Nome: Jardim da Penha
+C
+1
+	Numero: 110
+	Numero de contas castradas: 4
+	Saldo médio: R$0.00Lista de agencias:
+	Nome: Goiabeiras
+A
+112
+	Numero: 111
+	Numero de contas castradas: 2
+	Saldo médio: R$0.00

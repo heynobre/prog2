@@ -1,0 +1,26 @@
+/usr/bin/ld: Resultados/MatheusNobre/vector/agencia.o: na função "CriaAgencia":
+agencia.c:(.text+0x40): referência não definida para "VectorConstruct"
+/usr/bin/ld: Resultados/MatheusNobre/vector/agencia.o: na função "DestroiAgencia":
+agencia.c:(.text+0x80): referência não definida para "VectorDestroy"
+/usr/bin/ld: Resultados/MatheusNobre/vector/agencia.o: na função "AdicionaConta":
+agencia.c:(.text+0xf0): referência não definida para "VectorPushBack"
+/usr/bin/ld: Resultados/MatheusNobre/vector/agencia.o: na função "GetSaldoMedioAgencia":
+agencia.c:(.text+0x14a): referência não definida para "VectorGet"
+/usr/bin/ld: agencia.c:(.text+0x17c): referência não definida para "VectorSize"
+/usr/bin/ld: agencia.c:(.text+0x191): referência não definida para "VectorSize"
+/usr/bin/ld: agencia.c:(.text+0x1a5): referência não definida para "VectorSize"
+/usr/bin/ld: Resultados/MatheusNobre/vector/agencia.o: na função "ImprimeDadosAgencia":
+agencia.c:(.text+0x223): referência não definida para "VectorSize"
+/usr/bin/ld: Resultados/MatheusNobre/vector/banco.o: na função "CriaBanco":
+banco.c:(.text+0x40): referência não definida para "VectorConstruct"
+/usr/bin/ld: Resultados/MatheusNobre/vector/banco.o: na função "DestroiBanco":
+banco.c:(.text+0x78): referência não definida para "VectorDestroy"
+/usr/bin/ld: Resultados/MatheusNobre/vector/banco.o: na função "AdicionaAgencia":
+banco.c:(.text+0xe0): referência não definida para "VectorPushBack"
+/usr/bin/ld: Resultados/MatheusNobre/vector/banco.o: na função "ImprimeRelatorioBanco":
+banco.c:(.text+0x12c): referência não definida para "VectorGet"
+/usr/bin/ld: banco.c:(.text+0x150): referência não definida para "VectorSize"
+/usr/bin/ld: Resultados/MatheusNobre/vector/banco.o: na função "InsereContaBanco":
+banco.c:(.text+0x18e): referência não definida para "VectorGet"
+/usr/bin/ld: banco.c:(.text+0x1d0): referência não definida para "VectorSize"
+collect2: error: ld returned 1 exit status

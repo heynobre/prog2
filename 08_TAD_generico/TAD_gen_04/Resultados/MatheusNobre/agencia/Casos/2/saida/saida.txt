@@ -1,0 +1,15 @@
+Bradesco
+Lista de agencias:
+Lista de agencias:
+	Nome: UFES
+A
+221
+	Numero: 220
+	Numero de contas castradas: 6
+	Saldo médio: R$0.00Lista de agencias:
+	Nome: Jardim Camburi
+A
+223
+	Numero: 222
+	Numero de contas castradas: 2
+	Saldo médio: R$0.00

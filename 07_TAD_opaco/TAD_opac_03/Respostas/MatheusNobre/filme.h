@@ -2,6 +2,7 @@
 #define _FILME_H
 
 #define MAX_CARACTERES 20
+//#define MAX_FILMES 100
 
 typedef struct Filme tFilme;
 
@@ -49,6 +50,7 @@ void ImprimirNomeFilme (tFilme* filme);
 */
 int ObterValorFilme (tFilme* filme);
 
+char 
 /**
  * @brief Retorna a quantidade em estoque do filme.
  * 

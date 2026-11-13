@@ -1,0 +1,10 @@
+/usr/bin/ld: Resultados/MatheusNobre/loja/main.o: na função "main":
+main.c:(.text+0x10e): referência não definida para "AbreLoja"
+/usr/bin/ld: main.c:(.text+0x1c6): referência não definida para "VerificaIdLoja"
+/usr/bin/ld: main.c:(.text+0x1f7): referência não definida para "ContrataVendedor"
+/usr/bin/ld: main.c:(.text+0x283): referência não definida para "VerificaIdLoja"
+/usr/bin/ld: main.c:(.text+0x2b4): referência não definida para "RegistraVenda"
+/usr/bin/ld: main.c:(.text+0x2fc): referência não definida para "CalculaLucro"
+/usr/bin/ld: main.c:(.text+0x31b): referência não definida para "ImprimeRelatorioLoja"
+/usr/bin/ld: main.c:(.text+0x371): referência não definida para "ApagaLoja"
+collect2: error: ld returned 1 exit status

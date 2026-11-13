@@ -1,0 +1,12 @@
+/usr/bin/ld: Resultados/MatheusNobre/lesao/main.o: na função "insereLesoesPacientes":
+main.c:(.text+0x2f): referência não definida para "getCartaoSusLesao"
+/usr/bin/ld: main.c:(.text+0xbe): referência não definida para "liberaLesao"
+/usr/bin/ld: Resultados/MatheusNobre/lesao/main.o: na função "main":
+main.c:(.text+0x327): referência não definida para "lerLesao"
+/usr/bin/ld: Resultados/MatheusNobre/lesao/paciente.o: na função "qtdLesoesCirurgicasPaciente":
+paciente.c:(.text+0x2d6): referência não definida para "verificaCirurgicaLesao"
+/usr/bin/ld: Resultados/MatheusNobre/lesao/paciente.o: na função "imprimePaciente":
+paciente.c:(.text+0x355): referência não definida para "imprimeIdLesao"
+/usr/bin/ld: Resultados/MatheusNobre/lesao/paciente.o: na função "liberaPaciente":
+paciente.c:(.text+0x3b0): referência não definida para "liberaLesao"
+collect2: error: ld returned 1 exit status

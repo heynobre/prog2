@@ -1,0 +1,15 @@
+In file included from filme.c:4:
+filme.h:60:1: error: two or more data types in declaration specifiers
+   60 | int ObterQtdEstoqueFilme (tFilme* filme);
+      | ^~~
+filme.c:90:5: error: conflicting types for ‘ObterQtdEstoqueFilme’; have ‘int(tFilme *)’ {aka ‘int(struct Filme *)’}
+   90 | int ObterQtdEstoqueFilme (tFilme* filme)
+      |     ^~~~~~~~~~~~~~~~~~~~
+filme.h:60:5: note: previous declaration of ‘ObterQtdEstoqueFilme’ with type ‘char(tFilme *)’ {aka ‘char(struct Filme *)’}
+   60 | int ObterQtdEstoqueFilme (tFilme* filme);
+      |     ^~~~~~~~~~~~~~~~~~~~
+In file included from locadora.h:4,
+                 from locadora.c:4:
+filme.h:60:1: error: two or more data types in declaration specifiers
+   60 | int ObterQtdEstoqueFilme (tFilme* filme);
+      | ^~~

@@ -124,11 +124,11 @@ int EhMesmoCodigoFilme (tFilme* filme, int codigo)
 */
 void AlugarFilme (tFilme* filme)
 {
-    if(ObterQtdEstoqueFilme(filme) > 0)
-    {
+    
+    
         (filme->qtd_alugada)++;
         (filme->qtd_estoque)--;
-    }
+    
     
 }
 
